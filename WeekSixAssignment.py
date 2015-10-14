@@ -2,6 +2,7 @@ __author__ = 'trevorbillwaite'
 
 # WeekSixAssignment.py
 # Introduction to Computer Science
+# Collaboration with Nicole Ignasiak, Josiah Hardacre, Nathan Pugh
 
 
 
